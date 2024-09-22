@@ -18,5 +18,6 @@
 ## 動画
 
 YouTubeにあげています。
-[!['altテキスト']('hello-blender-short-animation.jpg')]('https://www.youtube.com/watch?v=3Vif4gxSR7w')
+
+[![YouTubeへのリンク](hello-blender-short-animation.jpg)](https://www.youtube.com/watch?v=3Vif4gxSR7w)
 
