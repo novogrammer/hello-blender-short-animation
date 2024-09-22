@@ -17,7 +17,7 @@
 
 ## 動画
 
-YouTubeにあげています。
 
-[![YouTubeへのリンク](hello-blender-short-animation.jpg)](https://www.youtube.com/watch?v=3Vif4gxSR7w)
+YouTubeにあげています。<br>
+[「Suzanneを主人公にショートアニメを作ってみた」<br>![YouTubeへのリンク](hello-blender-short-animation.jpg)](https://www.youtube.com/watch?v=3Vif4gxSR7w)
 
